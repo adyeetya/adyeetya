@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aditya Singh here, a Btech computer science student, currently working on WebDevelopment projects.<br>Passionate about Programming, Designing, Development and always looking for new challenges to tackle.<br>Working on a variety of projects, like E-Commerce Website and a bunch of other React Websites, and gained valuable skills in Reactjs, JavaScript, and HTML, CSS.<br>I'm proficient in languages like Python and JavaScript.<br>Excited to be a part of the GitHub community and eager to collaborate with other developers.<br>
+Aditya Singh here, a Btech computer science student, currently working in Next js at DIK group.<br>Passionate about Programming, Designing, Development and always looking for new challenges to tackle.<br>Working on a variety of projects, like Home Interior Websites, E-Commerce Website and a bunch of other React Websites, and gained valuable skills in Nextjs, Reactjs, JavaScript, Typescript, Tailwind and HTML, CSS.<br>I'm proficient in languages like Python and JavaScript.<br>Excited to be a part of the GitHub community and eager to collaborate with other developers.<br>
 
 
 ## 🌐 Socials:
